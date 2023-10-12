@@ -1,0 +1,54 @@
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.exe
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.runtimeconfig.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\refint\Banking.CheckLedger.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\ref\Banking.CheckLedger.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CopyComplete
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.exe
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.deps.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.runtimeconfig.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfoInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfo.cs
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CopyComplete
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\refint\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.genruntimeconfig.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.CheckLedger\obj\Debug\net7.0\ref\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.exe
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.deps.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.runtimeconfig.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfoInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.AssemblyInfo.cs
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.csproj.CopyComplete
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\refint\Banking.CheckLedger.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\Banking.CheckLedger.genruntimeconfig.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.CheckLedger\obj\Debug\net7.0\ref\Banking.CheckLedger.dll

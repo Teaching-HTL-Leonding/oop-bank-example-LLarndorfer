@@ -1,0 +1,46 @@
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\bin\Debug\net7.0\Banking.Logic.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\refint\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.Logic\obj\Debug\net7.0\ref\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\refint\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\ref\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.deps.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfoInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfo.cs
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\refint\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2 and so on\Banking.Logic\obj\Debug\net7.0\ref\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\bin\Debug\net7.0\Banking.Logic.deps.json
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfoInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.AssemblyInfo.cs
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\refint\Banking.Logic.dll
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\Banking.Logic.pdb
+C:\Users\lukas\Downloads\Downloads\BankingSystem - Lvl 2\Banking.Logic\obj\Debug\net7.0\ref\Banking.Logic.dll

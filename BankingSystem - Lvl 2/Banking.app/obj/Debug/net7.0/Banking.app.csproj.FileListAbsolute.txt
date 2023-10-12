@@ -1,0 +1,36 @@
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.app.exe
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.app.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.app.runtimeconfig.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.app.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.csproj.CopyComplete
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\refint\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\Banking.app.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem\Banking.app\obj\Debug\net7.0\ref\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.app.exe
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.app.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.app.runtimeconfig.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.app.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\bin\Debug\net7.0\Banking.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.csproj.CopyComplete
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\refint\Banking.app.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\Banking.app.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\BankingSystem - Lvl 2 and so on\Banking.app\obj\Debug\net7.0\ref\Banking.app.dll

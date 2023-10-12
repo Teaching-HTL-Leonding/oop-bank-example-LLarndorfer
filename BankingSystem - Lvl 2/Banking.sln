@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking.Logic", "Banking.Logic\Banking.Logic.csproj", "{EA4C468B-A750-4570-82B3-96B72E0DD822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking.app", "Banking.app\Banking.app.csproj", "{C40D8DCD-AB49-4F53-8721-C85F7BE73FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking.CheckLedger", "Banking.CheckLedger\Banking.CheckLedger.csproj", "{AB3A6C8B-5A25-466E-870F-177553590E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4C468B-A750-4570-82B3-96B72E0DD822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4C468B-A750-4570-82B3-96B72E0DD822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4C468B-A750-4570-82B3-96B72E0DD822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4C468B-A750-4570-82B3-96B72E0DD822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40D8DCD-AB49-4F53-8721-C85F7BE73FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40D8DCD-AB49-4F53-8721-C85F7BE73FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40D8DCD-AB49-4F53-8721-C85F7BE73FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40D8DCD-AB49-4F53-8721-C85F7BE73FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3A6C8B-5A25-466E-870F-177553590E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3A6C8B-5A25-466E-870F-177553590E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3A6C8B-5A25-466E-870F-177553590E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3A6C8B-5A25-466E-870F-177553590E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
